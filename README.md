@@ -237,7 +237,7 @@ python reproject_resample.py
 
 ---
 
-## Shapefile Geometry Smoothing with Taubin Method
+## Smooth polygons(mask).py - Shapefile Geometry Smoothing with Taubin Method
 
 ### Description
 This script smooths polygon boundaries of a shapefile using the Taubin smoothing algorithm while visualizing the original polygons over a raster image.
